@@ -57,12 +57,4 @@ To run any of the projects in this repository, follow these steps:
     ./outputname
     ```
 
-## Contributing
-
-We welcome contributions to improve or expand the repository. If you'd like to contribute, please feel free to:
-
-- Add more projects.
-- Improve the existing code.
-- Submit suggestions or feedback via issues or pull requests.
-
 
