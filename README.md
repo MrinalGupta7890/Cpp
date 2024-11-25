@@ -5,11 +5,15 @@ Welcome to the **C++ Projects Repository**! This collection features various C++
 ## Table of Contents
 
 ### Solid Principles
-- [Single Responsibility Principle (SRP)](c:\c++\Solid Principle\srp.cpp)
-- [Open/Closed Principle (OCP)](c:\c++\Solid Principle\open-close.cpp)
-- [Liskov Substitution Principle (LSP)](c:\c++\Solid Principle\liskov's.cpp)
-- [Interface Segregation Principle (ISP)](c:\c++\Solid Principle\interface-segregation.cpp)
-- [Dependency Inversion Principle (DIP)](c:\c++\Solid Principle\dependency-inversion.cpp)
+
+| Principle                               | Description | File Path |
+|-----------------------------------------|-------------|-----------|
+| **Single Responsibility Principle (SRP)** | A class should have only one reason to change, meaning it should have only one job. | [srp.cpp](c:\c++\Solid Principle\srp.cpp) |
+| **Open/Closed Principle (OCP)**          | Software entities should be open for extension, but closed for modification. | [open-close.cpp](c:\c++\Solid Principle\open-close.cpp) |
+| **Liskov Substitution Principle (LSP)**  | Objects of a subclass should be replaceable with objects of the superclass without affecting the correctness of the program. | [liskov's.cpp](c:\c++\Solid Principle\liskov's.cpp) |
+| **Interface Segregation Principle (ISP)**| Clients should not be forced to depend on interfaces they do not use. | [interface-segregation.cpp](c:\c++\Solid Principle\interface-segregation.cpp) |
+| **Dependency Inversion Principle (DIP)** | High-level modules should not depend on low-level modules. Both should depend on abstractions. | [dependency-inversion.cpp](c:\c++\Solid Principle\dependency-inversion.cpp) |
+
 
 ### Design Patterns
 - **Chain of Responsibility Pattern**
